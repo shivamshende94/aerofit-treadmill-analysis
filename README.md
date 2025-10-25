@@ -10,7 +10,7 @@ This project analyzes Aerofit treadmill purchase data to identify customer chara
 - Derive **business insights and actionable recommendations** for marketing and product strategy.
 
 ## 🧮 Dataset
-**Dataset:** `Aerofit_treadmill.csv`  
+**Dataset:** `aerofit_treadmill.csv`  
 It contains customer details such as age, gender, income, fitness rating, marital status, usage frequency, and treadmill purchased.
 
 ## 🔍 Key Analyses
@@ -38,7 +38,7 @@ It contains customer details such as age, gender, income, fitness rating, marita
 - Jupyter Notebook  
 
 ## 📂 Files in Repository
-- `Aerofit_treadmill_analysis.ipynb` – Jupyter notebook containing the full analysis  
+- `aerofit_treadmill_analysis.ipynb` – Jupyter notebook containing the full analysis  
 - `README.md` – Project documentation  
 - `.gitignore` – Ignored files and folders  
 
