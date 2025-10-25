@@ -40,5 +40,5 @@ It contains customer details such as age, gender, income, fitness rating, marita
 ## 📂 Files in Repository
 - `aerofit_treadmill_analysis.ipynb` – Jupyter notebook containing the full analysis  
 - `README.md` – Project documentation  
-- `.gitignore` – Ignored files and folders  
+
 
